@@ -11,11 +11,7 @@ env/
 *.iml
 
 .DS_Store
-Thumbs.db
-
-assets/*.png
-assets/*.jpg
-assets/*.pdf
+Thumbs.dbg
 
 *.csv
 *.xlsx
